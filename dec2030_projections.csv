@@ -1,0 +1,12 @@
+Industry,Latest Historical Employment,Projected Dec 2030 Baseline,AI Susceptibility Coeff,Projected Dec 2030 Job Loss,Projected Dec 2030 Post-AI Employment
+Construction,254100,254338,0.15,38151,216187
+Financial Activities,377000,388422,0.75,291316,97105
+Information,87100,85261,0.65,55419,29841
+Leisure and Hospitality,606900,581233,0.35,203431,377801
+Manufacturing,571400,564336,0.25,141084,423252
+Other Services,250800,242632,0.4,97053,145579
+Private Education and Health Services,1036700,1066776,0.5,533388,533388
+Professional and Business Services,908700,902884,0.65,586875,316009
+"Trade, Transportation, & Utilities",1217500,1234709,0.45,555619,679090
+Government,858100,850741,0.6,510444,340296
+Mining,7300,6266,0.15,940,5326
