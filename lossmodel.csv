@@ -1,0 +1,12 @@
+Industry Title,Projected_Baseline,Exposure,Substitution,Augmentation,Loss_Score,Projected_Losses,Final Employment
+" Trade, Transportation, & Utilities",1260479,0.55,0.5,0.6,0.11,138653.0,1121826.0
+ Professional and Business Services,860208,0.85,0.6,0.7,0.153,131612.0,728596.0
+ Financial Activities,368880,0.8,0.65,0.55,0.234,86318.0,282562.0
+Government         ,949300,0.65,0.4,0.75,0.065,61704.0,887596.0
+ Private Education and Health Services,1176240,0.45,0.25,0.85,0.0169,19878.0,1156362.0
+ Manufacturing     ,585728,0.35,0.3,0.8,0.021,12300.0,573428.0
+ Information       ,85595,0.85,0.55,0.75,0.1169,10006.0,75589.0
+ Other Services    ,258731,0.35,0.25,0.8,0.0175,4528.0,254203.0
+ Leisure and Hospitality,721525,0.25,0.15,0.85,0.0056,4041.0,717484.0
+ Construction      ,268218,0.15,0.2,0.9,0.003,805.0,267413.0
+Mining,7528,0.15,0.2,0.9,0.003,23.0,7505.0
