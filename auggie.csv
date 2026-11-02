@@ -1,0 +1,51 @@
+Occupational_Title,Exposure,Substitution,Augmentation,Loss_Score
+Transportation and Material Moving Occupations,0.15,0.2,0.9,0.003
+Production Occupations,0.15,0.2,0.9,0.003
+"Installation, Maintenance, and Repair Occupations",0.15,0.2,0.9,0.003
+"Laborers and Freight, Stock, and Material Movers, Hand",0.15,0.2,0.9,0.003
+Construction and Extraction Occupations,0.15,0.2,0.9,0.003
+Stockers and Order Fillers,0.15,0.2,0.9,0.003
+Community and Social Service Occupations,0.3,0.2,0.9,0.006
+Heavy and Tractor-Trailer Truck Drivers,0.15,0.2,0.9,0.003
+Miscellaneous Assemblers and Fabricators,0.15,0.2,0.9,0.003
+"Maintenance and Repair Workers, General",0.15,0.2,0.9,0.003
+Light Truck Drivers,0.15,0.2,0.9,0.003
+Construction Laborers,0.15,0.2,0.9,0.003
+"Inspectors, Testers, Sorters, Samplers, and Weighers",0.15,0.2,0.9,0.003
+First-Line Supervisors of Production and Operating Workers,0.15,0.2,0.9,0.003
+Automotive Service Technicians and Mechanics,0.15,0.2,0.9,0.003
+Industrial Truck and Tractor Operators,0.15,0.2,0.9,0.003
+Packaging and Filling Machine Operators and Tenders,0.15,0.2,0.9,0.003
+"First-Line Supervisors of Transportation and Material-Moving Workers, Except Aircraft Cargo Handling Supervisors",0.15,0.2,0.9,0.003
+"Packers and Packagers, Hand",0.15,0.2,0.9,0.003
+Electricians,0.15,0.2,0.9,0.003
+Social and Human Service Assistants,0.3,0.2,0.9,0.006
+"Bus Drivers, School",0.15,0.2,0.9,0.003
+"Substance abuse, behavioral disorder, and mental health counselors",0.3,0.2,0.9,0.006
+"Child, Family, and School Social Workers",0.3,0.2,0.9,0.006
+Carpenters,0.15,0.2,0.9,0.003
+First-Line Supervisors of Construction Trades and Extraction Workers,0.15,0.2,0.9,0.003
+"First-Line Supervisors of Mechanics, Installers, and Repairers",0.15,0.2,0.9,0.003
+"Plumbers, Pipefitters, and Steamfitters",0.15,0.2,0.9,0.003
+Machinists,0.15,0.2,0.9,0.003
+Cleaners of Vehicles and Equipment,0.15,0.2,0.9,0.003
+"Welders, Cutters, Solderers, and Brazers",0.15,0.2,0.9,0.003
+Driver/Sales Workers,0.15,0.2,0.9,0.003
+"Educational, Guidance, and Career Counselors and Advisors",0.3,0.2,0.9,0.006
+"Electrical, electronic, and electromechanical assemblers, except coil winders, tapers, and finishers",0.15,0.2,0.9,0.003
+Bakers,0.15,0.2,0.9,0.003
+Food Batchmakers,0.15,0.2,0.9,0.003
+Operating Engineers and Other Construction Equipment Operators,0.15,0.2,0.9,0.003
+Industrial Machinery Mechanics,0.15,0.2,0.9,0.003
+Bus and Truck Mechanics and Diesel Engine Specialists,0.15,0.2,0.9,0.003
+Highway Maintenance Workers,0.15,0.2,0.9,0.003
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",0.15,0.2,0.9,0.003
+"Mixing and Blending Machine Setters, Operators, and Tenders",0.15,0.2,0.9,0.003
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",0.15,0.2,0.9,0.003
+Printing Press Operators,0.15,0.2,0.9,0.003
+Flight Attendants,0.15,0.2,0.9,0.003
+"Production Workers, All Other",0.15,0.2,0.9,0.003
+"Bus Drivers, Transit and Intercity",0.15,0.2,0.9,0.003
+Laundry and Dry-Cleaning Workers,0.15,0.2,0.9,0.003
+Computer Numerically Controlled Tool Operators,0.15,0.2,0.9,0.003
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",0.15,0.2,0.9,0.003
