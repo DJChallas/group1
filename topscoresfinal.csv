@@ -1,4 +1,4 @@
-Occupational Title,Exposure,Substitution,Augmentation,Loss Score
+Occupational_Title,Exposure,Substitution,Augmentation,Loss_Score
 Office and Administrative Support Occupations,0.9,0.95,0.15,0.7268
 First-Line Supervisors of Office and Administrative Support Workers,0.9,0.95,0.15,0.7268
 "Switchboard Operators, Including Answering Service",0.9,0.95,0.15,0.7268
